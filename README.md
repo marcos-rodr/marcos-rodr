@@ -2,7 +2,7 @@
 
 ### 🎓 Estudante de Engenharia da Computação @ UEMA (4º Período)
 
-Bem-vindo ao meu perfil! Sou apaixonado por tecnologia e atualmente estou focado em aprofundar meus conhecimentos em desenvolvimento de software e ciência de dados.
+Bem-vindo ao meu perfil! Sou apaixonado por tecnologia e atualmente estou focado em aprofundar meus conhecimentos em desenvolvimento de software, design e ciência de dados.
 
 ---
 
