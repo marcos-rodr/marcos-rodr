@@ -29,21 +29,12 @@ Bem-vindo ao meu perfil! Sou apaixonado por tecnologia e atualmente estou focado
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcos-rodr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-rodr&layout=compact&theme=dracula&hide_langs=html" height="150" alt="languages graph"  />
-</p>
-
----
-
 ## 📫 Como me encontrar
 
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- **E-mail:** [seu-email@uema.br](mailto:seu-email@uema.br)
+- **LinkedIn:** (https://www.linkedin.com/in/marcos-a-12535939a/)
+- **E-mail:** (marcosrodr.al@gmail.com)
 
 ---
 <p align="center">
-  "O código é a lei." 💻✨
+  "Conhecimento é poder." 💻
 </p>
